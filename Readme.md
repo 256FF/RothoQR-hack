@@ -5,25 +5,26 @@ With this info it's easy to create own QR-Codes to add and organize your own box
 ----
 Example:
 I found a picture of an Rotho QR-Code on google. The stickers shows the folowing infos:
+
 Box 70l, 54x37x43, Nr. 0436
+
 ArtNr. 4229.096096 / Online: 14229
-The QR-Code results in this link:
-http://www.appmybox.com/mobile/?4229&001590436
+
+The QR-Code results in this link: http://www.appmybox.com/mobile/?4229&001590436
 
 *DECRYPTION*
 
-Target link:
-http://www.appmybox.com/mobile/
+Target link: http://www.appmybox.com/mobile/
 
 Box Type: 4229 (article number without the leading "1")
+
 ?**4229**&
 
 Serial Number: (0436 - only the last 4 digits are used)
+
 00159**0436**
 
 ----
-QR-Code Generator
-https://www.qrcode-generator.de
+QR-Code Generator: https://www.qrcode-generator.de
 
-Rotho APPmyBOX
-https://play.google.com/store/apps/details?id=com.onoapps.rotho
+Rotho APPmyBOX: https://play.google.com/store/apps/details?id=com.onoapps.rotho
