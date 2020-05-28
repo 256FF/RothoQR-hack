@@ -4,13 +4,14 @@ With this info it's easy to create own QR-Codes to add and organize your own box
 
 ----
 Example:
-I found a picture of an Rotho QR-Code on google. The stickers shows the folowing infos:
+I found a picture of an Rotho QR-Code on google ([here it is](https://www.lavendelblog.de/wp-content/uploads/2016/12/rotho-aufbewahrungsbox-1536x1024.jpg)). The stickers shows the folowing infos:
 
 Box 70l, 54x37x43, Nr. 0436
 
 ArtNr. 4229.096096 / Online: 14229
 
 The QR-Code results in this link: http://www.appmybox.com/mobile/?4229&001590436
+
 
 *DECRYPTION*
 
