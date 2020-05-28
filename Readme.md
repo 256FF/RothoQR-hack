@@ -31,6 +31,7 @@ For the 10l-Box (36x26x14 cm) with the number 14048 the link with serial numer 1
 http://www.appmybox.com/mobile/?4048&001591337
 
 Just copy and paste to a QR-Code Generator and scan the code with the APPmyBOX App.
+
 ![Image](https://github.com/256FF/RothoQR-hack/blob/master/10l.jpg?raw=true)
 
 ----
