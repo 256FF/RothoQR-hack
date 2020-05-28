@@ -1,6 +1,7 @@
 **Rotho** is a manufacturer of household organizing boxes. Every box has an QR-Code so that this box and it's content can be added to the APPmyBOX App.
 The QR Code is a simple URL consiting of the article number (e.g. 4229) and a serial number.
 With this info it's easy to create own QR-Codes to add and organize your own boxes to the Rotho APPmyBOX App.
+
 ----
 Example:
 I found a picture of an Rotho QR-Code on google. The stickers shows the folowing infos:
