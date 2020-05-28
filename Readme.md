@@ -27,7 +27,7 @@ Serial Number: (0436 - only the last 4 digits are used)
 
 00159**0436**
 
-For the 10l-Box (36x26x14 cm) with the number 14048 the link with serial numer 1337 looks like this:
+For the 10l-Box (36x26x14 cm) with the number 14048 the link with serial number 1337 looks like this:
 http://www.appmybox.com/mobile/?4048&001591337
 
 Just copy and paste to a QR-Code Generator and scan the code with the APPmyBOX App.
