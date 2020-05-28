@@ -12,7 +12,7 @@ ArtNr. 4229.096096 / Online: 14229
 
 The QR-Code results in this link: http://www.appmybox.com/mobile/?4229&001590436
 
-
+----
 *DECRYPTION*
 
 Target link: http://www.appmybox.com/mobile/
